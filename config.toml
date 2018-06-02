@@ -1,0 +1,41 @@
+baseurl = "https://example.org/"
+title = "Cord x Clay"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "Describe your website"
+  copyright = "&copy;2018 Cord x Clay"
+  sidebarAbout = [
+    "Welcome to <b>CORD X CLAY</b>: a ceramics and fiber art studio owned by two sisters.",
+    "Click images to browse our portfolio.",
+    "Items for purchase are in our Etsy shop, but contact us if there's something you'd like that isn't in stock!"
+  ]
+
+ 
+[[params.navlinks]]
+name = "Home"
+url = "portfolio/"
+home = true
+
+[[params.navlinks]]
+name = "Shop on Etsy"
+# url = "about/"
+# https://www.etsy.com/shop/cordxclay
+
+[[params.navlinks]]
+name = "About"
+url = "about/"
+
+#sign up to newsletter
+
+  [params.social]
+  email         = "cordxclay@gmail.com"
+  instagram     = "http://www.instagram.com/cordxclay"
+
