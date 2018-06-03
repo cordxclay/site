@@ -1,4 +1,4 @@
-baseurl = "https://cordxclay.github.io/"
+baseurl = "http://cordxclay.com/"
 title = "Cord x Clay"
 logo = "cordxclaylogo.png"
 theme = "hugo-creative-portfolio-theme"
