@@ -1,12 +1,11 @@
 +++
-showonlyimage = true
-draft = false
 image = "img/portfolio/IMG_3470-15.jpg"
+showonlyimage = false
 date = "2018-05-22T18:25:22+05:30"
-title = "Dark blue dinnerware"
-weight = 0
+title = "Saphire dinnerware"
+draft = false
+weight = 2
 +++
-
 <!--more-->
 
 xxx

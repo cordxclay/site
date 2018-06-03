@@ -1,12 +1,11 @@
 +++
-showonlyimage = true
-draft = false
 image = "img/portfolio/monotoneweaving5.jpg"
+showonlyimage = false
 date = "2018-05-22T18:25:22+05:30"
 title = "Neutral wall weavings"
-weight = 0
+draft = false
+weight = 2
 +++
-
 <!--more-->
 
 xxx

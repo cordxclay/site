@@ -1,12 +1,11 @@
 +++
-showonlyimage = true
-draft = false
 image = "img/portfolio/IMG_2952-9-1.jpg"
+showonlyimage = false
 date = "2018-05-22T18:25:22+05:30"
-title = "Blue ombre dinnerware"
-weight = 0
+title = "Dusty blue dinnerware"
+draft = false
+weight = 2
 +++
-
 <!--more-->
 
 A shallow salad/pasta bowl which has been glazed in a speckled blue, with an ombre/striped effect. Made from porcelain. Dishwasher and microwave-safe.
