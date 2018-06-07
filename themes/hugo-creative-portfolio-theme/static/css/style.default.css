@@ -831,7 +831,7 @@ a:active {
 }
 .single-box-masonry {
   background: #fff;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   position: relative;
   box-shadow: 0 0 5px #ccc;
   -webkit-transition: all 0.2s ease-out;
