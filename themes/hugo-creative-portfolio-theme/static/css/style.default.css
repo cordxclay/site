@@ -825,6 +825,26 @@ a:active {
 .ekko-lightbox .modal-footer {
   text-align: left;
 }
+.single-grid {
+  /* padding-left: 40px;
+  padding-right: 40px; */
+}
+.single-box-masonry {
+  background: #fff;
+  margin-bottom: 10px;
+  position: relative;
+  box-shadow: 0 0 5px #ccc;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.single-masonry-item {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
 .grid {
   margin-right: -15px;
   margin-left: -15px;
