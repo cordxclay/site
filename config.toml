@@ -1,4 +1,4 @@
-baseurl = "http://cordxclay.com/"
+baseurl = "https://cordxclay.com/"
 title = "Cord x Clay"
 logo = "cordxclaylogo.png"
 theme = "hugo-creative-portfolio-theme"
