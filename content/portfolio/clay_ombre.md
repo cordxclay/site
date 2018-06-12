@@ -1,0 +1,12 @@
++++
+image = "img/portfolio/IMG_2952-9-1.jpg"
+showonlyimage = false
+date = "2018-05-22T18:25:22+05:30"
+title = "BLUE OMBRE series"
+draft = false
+weight = 2
+images = [ "img/portfolio/ombre2.jpg", "img/portfolio/ombre8.jpg", "img/portfolio/ombre1.jpg", "img/portfolio/ombre4.jpg", "img/portfolio/ombre3.jpg", "img/portfolio/ombre6.jpg", "img/portfolio/ombre10.jpg", "img/portfolio/ombre9.jpg",  ]
++++
+<!--more-->
+
+Glazed in a speckled blue, with an ombre/striped effect. 

@@ -5,7 +5,7 @@ date = "2018-05-22T18:25:22+05:30"
 title = "SPECKLED CUPS"
 draft = false
 weight = 2
-images = [ "img/portfolio/spdrink1.jpg", "img/portfolio/spdrink5.jpg", "img/portfolio/spdrink3.jpg", "img/portfolio/spdrink2.jpg", "img/portfolio/spdrink6.jpg" ]
+images = [ "img/portfolio/spdrink1.jpg", "img/portfolio/spdrink3.jpg", "img/portfolio/spdrink9.jpg", "img/portfolio/spdrink2.jpg", "img/portfolio/spdrink6.jpg" ]
 +++
 <!--more-->
 
