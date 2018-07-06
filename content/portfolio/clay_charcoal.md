@@ -9,6 +9,6 @@ images = [ "img/portfolio/charcoal4.jpg", "img/portfolio/charcoal3.jpg", "img/po
 +++
 <!--more-->
 
-Items made with a velvety black clay, and glazed in hues of blue-green or white. To celebrate the beauty of the clay, much of it is left exposed.
+Thrown in velvety black clay, these pieces are glazed in hues of deep blue-green or white. To reveal the unique beauty of the black clay, much of it is left unglazed and exposed. 
 
 <i>This series is no longer available.</i>

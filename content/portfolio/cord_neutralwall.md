@@ -9,4 +9,4 @@ images = [ "img/portfolio/neutralweave1.jpg", "img/portfolio/neutralweave3a.jpg"
 +++
 <!--more-->
 
-xxx
+All tapestries are handwoven using various types of fiber and upcycled fabric remnants.

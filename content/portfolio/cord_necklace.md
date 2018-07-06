@@ -9,4 +9,4 @@ images = [ "img/portfolio/neck4.jpg", "img/portfolio/neck1.jpg", "img/portfolio/
 +++
 <!--more-->
 
-xxx
+These statement pieces are handwoven or wrapped by hand.

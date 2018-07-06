@@ -3,6 +3,8 @@ title = "Cord x Clay"
 logo = "cordxclaylogo.png"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
+
+# Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-120657289-1"
 
 [params]
@@ -14,7 +16,7 @@ googleAnalytics = "UA-120657289-1"
   sidebarAbout = [
     "Welcome to <b>CORD X CLAY</b>: a ceramics and fiber art studio owned by two sisters.",
     "Click on the images to browse our portfolio.",
-    "Items for purchase are in our <a href=http://www.etsy.com/shop/cordxclay>Etsy shop</a>, but email us at <a href='mailto:cordxclay@gmail.com'>cordxclay@gmail.com</a> if there's something you'd like that isn't in stock!"
+    "Items for purchase are in our <a href=http://www.etsy.com/shop/cordxclay>Etsy shop</a>. Email us at <a href='mailto:cordxclay@gmail.com'>cordxclay@gmail.com</a> if there's something you'd like that isn't in stock, or for custom orders!"
   ]
 
  

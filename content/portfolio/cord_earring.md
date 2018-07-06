@@ -10,4 +10,4 @@ images = [ "img/portfolio/ear3.jpg", "img/portfolio/ear4.jpg", "img/portfolio/ea
 
 <!--more-->
 
-xxx
+Playful and unique pieces for the ear. These are all hand-wrapped using natural fiber and fabric remnants.

@@ -9,4 +9,4 @@ images = [ "img/portfolio/planter2.jpg", "img/portfolio/planter4.jpg", "img/port
 +++
 <!--more-->
 
-A speckled wheel-thrown ceramic planter with a rounded bottom, dipped in white glaze. 
+A collection of modern wheel-thrown planters.

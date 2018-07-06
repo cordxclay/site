@@ -9,4 +9,4 @@ images = [ "img/portfolio/colorweave6.jpg", "img/portfolio/colorweave7.jpg", "im
 +++
 <!--more-->
 
-Woven on my loom, using various types of yarn and fabric remnants. A cheerful palette of bright blues, peach, hot pink and yellow, with a cotton fiber fringe.
+All tapestries are handwoven using various types of fiber and upcycled fabric remnants.

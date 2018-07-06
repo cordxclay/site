@@ -9,4 +9,4 @@ images = [ "img/portfolio/spdrink1.jpg", "img/portfolio/spdrink3.jpg", "img/port
 +++
 <!--more-->
 
-Our signature tumblers with a thumb hold ("thumblers"). Hand thrown on the wheel in iron rich clay, and dipped in a white glaze. Feels lovely in the hand!
+Hand thrown on the wheel in iron rich clay, and dipped in a white glaze. Includes our signature tumblers with a thumb hold ("thumblers"). Feels lovely in the hand!

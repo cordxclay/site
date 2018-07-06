@@ -9,4 +9,4 @@ images = [ "img/portfolio/coaster2.jpg", "img/portfolio/coaster1.jpg", "img/port
 +++
 <!--more-->
 
-xxx
+Handwoven in cotton or linen.
