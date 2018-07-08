@@ -5,7 +5,7 @@ date = "2018-05-22T18:25:22+05:30"
 title = "SAPPHIRE series"
 draft = false
 weight = 2
-images = [ "img/portfolio/saphire1.jpg", "img/portfolio/saphire3.jpg", "img/portfolio/saphire7.jpg", "img/portfolio/saphire5.jpg", "img/portfolio/saphire4.jpg", "img/portfolio/saphire8.jpg" ]
+images = [ "img/portfolio/saphire1.jpg", "img/portfolio/saphire7.jpg", "img/portfolio/saphire5.jpg", "img/portfolio/saphire4.jpg", "img/portfolio/saphire8.jpg" ]
 +++
 <!--more-->
 
