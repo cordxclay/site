@@ -2,3 +2,5 @@
 	path = public
 	url = git@github.com:cordxclay/cordxclay.github.io.git
 	branch = master
+[submodule "pulic"]
+	branch = master
