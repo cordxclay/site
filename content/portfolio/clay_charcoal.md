@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2018-05-22T18:25:22+05:30"
 title = "CHARCOAL series"
 draft = false
-weight = 2
+weight = 201
 images = [ "img/portfolio/charcoal4.jpg", "img/portfolio/charcoal3.jpg", "img/portfolio/charcoal8.jpg", "img/portfolio/charcoal6.jpg", "img/portfolio/charcoal7.jpg"]
 +++
 <!--more-->

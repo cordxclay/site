@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2018-05-22T18:25:22+05:30"
 title = "BLUE OMBRE series"
 draft = false
-weight = 2
+weight = 5
 images = [ "img/portfolio/ombre2.jpg", "img/portfolio/ombre11.jpg", "img/portfolio/ombre8.jpg", "img/portfolio/ombre1.jpg", "img/portfolio/ombre4.jpg", "img/portfolio/ombre3.jpg", "img/portfolio/ombre6.jpg" ]
 +++
 <!--more-->

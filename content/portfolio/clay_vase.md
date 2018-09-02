@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2018-05-22T18:25:22+05:30"
 title = "VASES"
 draft = false
-weight = 2
+weight = 11
 images = [ "img/portfolio/IMG_3508-1.jpg", "img/portfolio/vase3.jpg", "img/portfolio/vase4.jpg", "img/portfolio/vase5.jpg", "img/portfolio/vase1.jpg"]
 +++
 <!--more-->
