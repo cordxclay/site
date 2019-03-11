@@ -12,7 +12,7 @@ googleAnalytics = "UA-120657289-1"
   # Use custom.css for your custom styling
   style = "default"
   description = "Cord x Clay"
-  copyright = "&copy;2018 Cord x Clay"
+  copyright = "&copy;2019 Cord x Clay"
   sidebarAbout = [
     "Welcome to <b>CORD X CLAY</b>: a ceramics and fiber art studio owned by two sisters.",
     "Click on the images to browse our portfolio.",
@@ -28,6 +28,10 @@ home = true
 [[params.navlinks]]
 name = "About"
 url = "about/"
+
+[[params.navlinks]]
+name = "Weaving Workshops"
+url = "weaving_workshop/"
 
 #sign up to newsletter
 
