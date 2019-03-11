@@ -5,7 +5,7 @@ date = "2018-05-22T18:25:22+05:30"
 title = "EARRINGS"
 draft = false
 weight = 6
-images = [ "img/portfolio/ear3.jpg", "img/portfolio/ear4.jpg", "img/portfolio/ear5.jpg", "img/portfolio/ear6.jpg", "img/portfolio/ear9.jpg", "img/portfolio/ear10.jpg", "img/portfolio/ear8.jpg", "img/portfolio/ear11.jpg", "img/portfolio/ear2.jpg", "img/portfolio/ear1.jpg", ]
+images = [ "img/portfolio/ear3.jpg", "img/portfolio/ear4.jpg", "img/portfolio/ear12.jpg", "img/portfolio/ear6.jpg", "img/portfolio/ear9.jpg", "img/portfolio/ear10.jpg", "img/portfolio/ear11.jpg", "img/portfolio/ear2.jpg", "img/portfolio/ear1.jpg", ]
 +++
 
 <!--more-->

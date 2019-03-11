@@ -5,7 +5,7 @@ date = "2018-05-22T18:25:22+05:30"
 title = "SPECKLED DINNERWARE"
 draft = false
 weight = 9
-images = [ "img/portfolio/spdin4.jpg", "img/portfolio/spdin9.jpg", "img/portfolio/spdin8.jpg", "img/portfolio/spdin7.jpg", "img/portfolio/spdin3.jpg", "img/portfolio/spdin12.jpg", "img/portfolio/spdin11.jpg", "img/portfolio/spdin1.jpg", "img/portfolio/spdin10.jpg" ]
+images = [ "img/portfolio/spdin9.jpg", "img/portfolio/spdin8.jpg", "img/portfolio/spdin3.jpg", "img/portfolio/spdin7.jpg", "img/portfolio/spdin12.jpg", "img/portfolio/spdin18.jpg", "img/portfolio/spdin1.jpg", "img/portfolio/spdin11.jpg", "img/portfolio/spdin13.jpg", "img/portfolio/spdin14.jpg", "img/portfolio/spdin15.jpg", "img/portfolio/spdin16.jpg", "img/portfolio/spdin17.jpg"]
 +++
 <!--more-->
 
