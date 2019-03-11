@@ -19,15 +19,16 @@
                       {{ else }}
                       <div class="box-masonry-text">
                       {{ end }}
-                          <h4 style="margin-top: 0px; margin-bottom: -15px"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                          <h4 style="margin-top: 0px"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                           <div class="box-masonry-description">
-                            <p>
+                          <!--  <p>
                                 {{ if .Description }}
                                   {{ .Description }}
                                 {{ else }}
                                   {{ .Summary }}
                                 {{ end }}
                             </p>
+                          -->
                           </div>
                       </div>
                   </div>
