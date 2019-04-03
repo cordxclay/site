@@ -3,11 +3,16 @@ date = "2019-03-10T21:05:33+05:30"
 title = "Weaving Workshops"
 +++
 
-We offer beginner weaving workshops in Singapore, where you will learn how to weave on a simple lap loom! Click here to <a href=http://www.cordxclay.eventbrite.sg/>SIGN UP</a> or <a href="mailto:cordxclay@gmail.com">email us</a> for custom dates/times.
+We offer beginner weaving workshops in Singapore, where you will learn how to weave on a simple lap loom! 
+
+<center><a class="button" href="http://www.cordxclay.eventbrite.sg/">SEE UPCOMING SCHEDULE & SIGN UP</a></center>
+
+
+In this workshop, Elisa teaches basic techniques which will enable you to create your own unique wall weaving from start to finish. 
 
 ![workshop image](/img/workshop1.jpg)
 
-In this workshop, Elisa teaches basic techniques which will enable you to create your own unique wall weaving from start to finish. The lesson will guide you through a sample pattern, but you will be free to pick your own colour palette and materials, as well as make your own specific design choices as you go. Enjoy the process of organic creation, and see where it leads you!
+The lesson will guide you through a sample pattern, but you will be free to pick your own colour palette and materials, as well as make your own specific design choices as you go. Enjoy the process of organic creation, and see where it leads you!
 
 ![workshop image](/img/workshop2.jpg)
 
