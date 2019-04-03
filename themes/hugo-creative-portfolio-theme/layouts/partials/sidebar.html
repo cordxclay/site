@@ -6,10 +6,12 @@
     {{ end }}
     <ul class="sidebar-menu">
       {{ $url := .Site.BaseURL }}
-      {{ range .Site.Params.navlinks }}
+      <li><a href="https://www.etsy.com/shop/cordxclay" target="_blank">Our Shop</a>
+        {{ range .Site.Params.navlinks }}
         <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
+       
       {{ end }}
-        <li><a href="https://www.etsy.com/shop/cordxclay" target="_blank">Shop on Etsy</a>
+       
 
     </ul>
     {{ partial "social_buttons_in_sidebar.html" . }}
