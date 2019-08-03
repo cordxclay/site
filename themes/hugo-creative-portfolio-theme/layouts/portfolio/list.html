@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>{{ .Title }}</h1>
+         {{ .Content }}
+      </div>
+      {{ if .Params.images}}
+         <div class="single-grid">
+          {{ $base := .Page.Site.BaseURL }}
+          {{ range $img := .Params.images }}
+            <div class="col-xs-14 col-sm-12 col-md-6 col-lg-4 single-masonry-item">
+              <div class="single-box-masonry">
+                <img src="{{ $base }}{{ $img }}" alt="" class="img-responsive">
+              </div>
+            </div>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}

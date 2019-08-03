@@ -20,7 +20,7 @@ googleAnalytics = "UA-120657289-1"
 [[params.navlinks]]
 name = "Weaving Workshops"
 url = "weaving_workshop/"
- 
+
 [[params.navlinks]]
 name = "Portfolio"
 url = "portfolio/"
@@ -31,8 +31,6 @@ name = "About Us"
 url = "about/"
 
 
-
-#sign up to newsletter
 
   [params.social]
   email         = "cordxclay@gmail.com"
