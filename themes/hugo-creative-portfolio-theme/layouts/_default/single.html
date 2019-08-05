@@ -5,9 +5,6 @@
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>{{ .Title }}</h1>
-<!--          {{ if and (isset .Params "image") .Params.image }}
-             <img src="{{.Site.BaseURL}}{{ .Params.image }}" alt="" class="img-responsive">
-         {{ end }} -->
          {{ .Content }}
          {{ template "_internal/disqus.html" . }}
             <div class="single-grid">
